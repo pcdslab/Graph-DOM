@@ -17,7 +17,7 @@ To setup and use Graph-DOM, follow the instructions below:
    `conda activate graph-dom`
 10. Set parameters in `config.ini` file. See the [Config](#config) section for details about setting parameters.
 11. Run Graph-DOM using the following command: `python3 main.py`
-12. The program will generate pathways for each precursor and then analyze the pathways to generate families. Once completed, the output file and plots can located in the `output` directory. For details on the output files and plots, see the publication `Place holder for publication.`
+12. The program will generate pathways for each precursor and then analyze the pathways to generate families. Once completed, the output file and plots can located in the `output` directory. For details on the output files and plots, see the publication and cite: Tariq, Muhammad Usman, Dennys Leyvay, Francisco Alberto Fernandez Limaz, and Fahad Saeed. "Graph Theoretic Approach for the Analysis of Comprehensive Mass-Spectrometry (MS/MS) Data of Dissolved Organic Matter." In 2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 3742-3746. IEEE, 2021.
 
 
 ## Config
